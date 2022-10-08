@@ -1,3 +1,5 @@
+#for students
+
 with open("data.txt","r") as datafile:
     f=datafile.read()
     print(f)
